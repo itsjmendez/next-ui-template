@@ -108,7 +108,7 @@ export const Navbar = () => {
 						startIcon={<HeartFilledIcon className="text-danger" />}
 						variant="flat"
 					>
-						Sponsor
+						Learn More
 					</Button>
 				</NavbarItem>
 			</NavbarContent>

@@ -43,7 +43,7 @@ export const Navbar = () => {
 				</Kbd>
 			}
 			labelPlacement="outside"
-			placeholder="Search..."
+			placeholder="Search"
 			startContent={
 				<SearchIcon className="text-base text-default-400 pointer-events-none flex-shrink-0" />
 			}
